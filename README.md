@@ -50,4 +50,4 @@ Telco Customer Churn Dataset
 
 - Testar Random Forest
 - Testar XGBoost
-- Construir Dashboard Power BI
+- Construir Dashboard Power BI          
